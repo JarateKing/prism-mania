@@ -2,8 +2,7 @@
 
 Skin designed to play well in osu mania.
 
-Install
-
-* Navigate to osu folder
-* Go to skins folder
-* Copy over the PRISM folder
+## Install
+1. Navigate to osu folder
+2. Go to skins folder
+3. Copy over the PRISM folder
