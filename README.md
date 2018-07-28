@@ -1,4 +1,4 @@
-# prism-mania
+# PRISM mania
 
 Skin designed to play well in osu mania.
 
